@@ -2,7 +2,7 @@
 <html>
 <head>
 	<meta http-equiv="content-type" content="text/html" />
-	<meta name="author" content="ilyas abdurahman yusuf" />
+	<meta name="author" content="pungky apri w" />
 	<title>Input Data</title>
   <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/icon?family=Material+Icons">
